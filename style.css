@@ -1,0 +1,27 @@
+.body
+{
+    background-size: cover;
+}
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+.heading
+{
+    background-color: rgb(113, 113, 104);
+    color: white;
+}
+
+canvas{
+    border: 5px solid black;
+    border-radius: 40px;
+    box-shadow: 5px 5px 5px grey;
+    float: right;
+}
+
+
